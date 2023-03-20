@@ -1,0 +1,10 @@
+# .gitignore file
+*.pyc
+__pycache__/
+db.sqlite3
+media/
+staticfiles/
+settings.py 
+*.log
+*.tmp
+secret/
